@@ -11,6 +11,8 @@ namespace Coin
     
         static void Main(string[] args)
         {
+
+
             Console.WriteLine("Choose Heads or Tails");
             string input = Console.ReadLine();
 
